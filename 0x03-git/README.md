@@ -1,2 +1,2 @@
 My second readme
-My first update and commit from GitHub interface
+My first update and commit from github.com
